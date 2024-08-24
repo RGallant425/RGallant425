@@ -31,5 +31,5 @@ My name is **Reagan Gallant**.
 </div>
 
 [![Linkedin](https://img.shields.io/badge/-Reagan%20Gallant-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reagan-gallant-82004368/)](www.linkedin.com/in/reagan-gallant-82004368)
-[![GitHub](https://img.shields.io/github/followers/maikebing?label=follow&logo=github&style=for-the-badge)](https://github.com/Reagang)
+[![GitHub](https://img.shields.io/github/followers/Reagang?label=follow&logo=github&style=for-the-badge)](https://github.com/Reagang)
 
