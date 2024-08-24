@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there!
 
-My name is **Yanhong Ma** and I do open source for fun.
+My name is **Reagan Gallant**.
 
 
-- 📫 How to contact me: mysticboy@live.com or qq 100860505 
-- 👯 I write code mainly in C and C#
-- 🤔 The operating system I work on is Linux and RT-Thread , .NET nanoFramework.
+- 📫 How to contact me: gallant.reagan@gmail.com. 
+- 👯 I write code mainly in Dotnet.
 - 🌱 The chip architecture I work on ARM,X86,Loongson,STM32,ESP32... 
-- ⚡ My industries are highways, medical robotics, and the IoT. 
+- ⚡ My industries are FinTech, Mining, Insurance, Gambling, Automotive, Warehousing, Manufacturing, and many more in a consultancy space. 
 
 #### Repository stats
 
@@ -32,9 +31,6 @@ My name is **Yanhong Ma** and I do open source for fun.
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikebing&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
 </div>
 
-[![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://wwww.maikebing.com/)
-[![Linkedin](https://img.shields.io/badge/-Yanhong%20Ma-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maikebing/)](https://www.linkedin.com/in/maikebing/)
-[![Nuget](https://img.shields.io/badge/-MysticBoy-blue?style=for-the-badge&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/MysticBoy)](https://www.nuget.org/profiles/MysticBoy/)
-[![GitHub](https://img.shields.io/github/followers/maikebing?label=follow&logo=github&style=for-the-badge)](https://github.com/maikebing)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maikebing)
+[![Linkedin](https://img.shields.io/badge/-Yanhong%20Ma-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reagan-gallant-82004368/)](www.linkedin.com/in/reagan-gallant-82004368)
+[![GitHub](https://img.shields.io/github/followers/maikebing?label=follow&logo=github&style=for-the-badge)](https://github.com/Reagang)
 
